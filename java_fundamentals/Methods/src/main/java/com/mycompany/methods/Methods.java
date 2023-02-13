@@ -20,11 +20,12 @@ public class Methods {
     /**
      *
      */
-        static void doSomething(){
-            System.out.println("This is a call inside my method");     
-        }
         
         
         
     }
+    static void doSomething(){
+        System.out.println("This is a call inside my method");     
+    }
+        
 }
